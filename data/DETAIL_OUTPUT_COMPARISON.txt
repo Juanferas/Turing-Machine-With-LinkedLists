@@ -1,0 +1,5 @@
+COMPARING THESE FILES:
+=> FILE 1: data/out_turing.txt
+=> FILE 2: data/output.txt
+1717062 LINES WERE COMPARED.
+THE FILES ARE EQUALS
